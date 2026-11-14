@@ -9,8 +9,10 @@ talks shadowed by a massive drone attack, a tech shock as Nvidia's CEO
 resigned, a second day of global Microsoft 365 outages, US–Iran drone
 tensions over Bahrain, a four-hour FAA ground stop in the US, the COP31
 climate summit in Antalya, and Taiwan's warning over China's Pacific naval
-drills — arranged as an editorial newspaper collage around a glowing Earth
-under the banner "FRIDAY 13 NOVEMBER 2026".
+drills — and, featured largest of all, Indonesia's raging wildfire crisis,
+its burning forests and thick haze hanging over Jakarta as the government
+refused to declare a national disaster — arranged as an editorial newspaper
+collage around a glowing Earth under the banner "FRIDAY 13 NOVEMBER 2026".
 
 ## Run
 
