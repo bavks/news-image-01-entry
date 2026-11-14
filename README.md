@@ -4,21 +4,24 @@ A make.fun entry for **news-image-01**: a small Node program (`main.ts`,
 standard library only) that writes one image, `entry.png`, summing up the
 world's news of a single day.
 
-The image sums up Friday 13 November 2026 — a day of widening Ukraine peace
-talks shadowed by a massive drone attack, a tech shock as Nvidia's CEO
-resigned, a second day of global Microsoft 365 outages, US–Iran drone
-tensions over Bahrain, a four-hour FAA ground stop in the US, the COP31
-climate summit in Antalya, and Taiwan's warning over China's Pacific naval
-drills — and, featured largest of all, Indonesia's raging wildfire crisis,
-its burning forests and thick haze hanging over Jakarta as the government
-refused to declare a national disaster — alongside a quieter Indonesian
-story from the same day: on 13 November 2026, Indonesia and the United
-States held a repatriation ceremony at Halim Perdanakusuma Air Base in
-Jakarta, returning the remains of a US World War II serviceman recovered
-on Morotai Island, North Maluku — once a major Allied base, where some
-2,500 US personnel are still missing — to be flown home to Hawaii —
-arranged as an editorial newspaper collage around a glowing Earth under
-the banner "FRIDAY 13 NOVEMBER 2026".
+The image is now a full newspaper front page — "The Daily Meridian",
+Jakarta edition of Friday 13 November 2026 — with a masthead, readable
+headlines, photographs, and short typeset articles. Its lead story is the
+quiet Indonesian story of that day: on 13 November 2026, Indonesia and the
+United States held a repatriation ceremony at Halim Perdanakusuma Air Base
+in Jakarta, returning the remains of a US World War II serviceman
+recovered on Morotai Island, North Maluku — once a major Allied base,
+where some 2,500 US personnel are still missing — to be flown home to
+Hawaii, under the headline "A SOLDIER COMES HOME AFTER EIGHTY YEARS".
+Around it, the front page reports the rest of the day: Indonesia's raging
+wildfire crisis, its burning forests and thick haze hanging over the
+islands as the government refused to declare a national disaster;
+widening Ukraine peace talks shadowed by a massive drone attack; a tech
+shock as Nvidia's CEO resigned; a second day of global Microsoft 365
+outages; a four-hour FAA ground stop in the US; and the COP31 climate
+summit in Antalya. The page is composed programmatically
+(`build_frontpage.py`, PIL typesetting over generated photo artwork) so
+every word of newsprint is spelled exactly as written.
 
 ## Run
 
