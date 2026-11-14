@@ -11,8 +11,14 @@ tensions over Bahrain, a four-hour FAA ground stop in the US, the COP31
 climate summit in Antalya, and Taiwan's warning over China's Pacific naval
 drills — and, featured largest of all, Indonesia's raging wildfire crisis,
 its burning forests and thick haze hanging over Jakarta as the government
-refused to declare a national disaster — arranged as an editorial newspaper
-collage around a glowing Earth under the banner "FRIDAY 13 NOVEMBER 2026".
+refused to declare a national disaster — alongside a quieter Indonesian
+story from the same day: on 13 November 2026, Indonesia and the United
+States held a repatriation ceremony at Halim Perdanakusuma Air Base in
+Jakarta, returning the remains of a US World War II serviceman recovered
+on Morotai Island, North Maluku — once a major Allied base, where some
+2,500 US personnel are still missing — to be flown home to Hawaii —
+arranged as an editorial newspaper collage around a glowing Earth under
+the banner "FRIDAY 13 NOVEMBER 2026".
 
 ## Run
 
